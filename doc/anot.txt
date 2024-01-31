@@ -1,0 +1,3 @@
+Há diferenças de Node Streams e web Streams;
+
+- Vamos criar uma api e passar dados por demanda
